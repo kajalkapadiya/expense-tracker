@@ -1,0 +1,33 @@
+input {
+  width: 50%;
+  padding: 1rem 2rem;
+  margin: 0.5rem;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 1rem;
+  border-bottom: 0.2rem solid rgb(0, 26, 255);
+  background-color: hsl(251, 57%, 93%);
+  color: black;
+}
+
+select {
+  width: 28%;
+  padding: 1rem 2rem;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 1rem;
+  border-bottom: 0.2rem solid rgb(0, 26, 255);
+  background-color: hsl(251, 57%, 93%);
+  color: black;
+}
+
+label {
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+  font-style: inherit;
+  margin-right: 0.7rem;
+}
+
+form{
+    padding: 3rem;
+}

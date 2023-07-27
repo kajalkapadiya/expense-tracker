@@ -1,0 +1,21 @@
+li {
+  margin: 0;
+  padding: 0;
+  list-style-type: decimal;
+}
+
+.list {
+  list-style-type: decimal;
+}
+
+span {
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+  font-variant: small-caps;
+  color: rgb(137, 4, 4);
+  background-color: antiquewhite;
+}
+
+.my-table-content td {
+  color: black;
+}
